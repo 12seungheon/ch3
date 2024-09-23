@@ -1,0 +1,5 @@
+수업 연습
+
+1.clone
+2.push
+3.pull
